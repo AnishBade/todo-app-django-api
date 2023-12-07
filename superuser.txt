@@ -1,3 +1,4 @@
 username: admin
 email: admin@admin.com
 password: admin
+github token: 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
